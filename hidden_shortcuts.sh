@@ -27,11 +27,11 @@ apps=("btop"
       "fish"
       "yad-icon-browser"
       "micro"
-      "Yelp"
-      "Tour"
-      "Evolution"
-      "Characters"
-      "SoundRecorder"
+      "org.gnome.Yelp"
+      "org.gnome.Tour"
+      "org.gnome.Evolution"
+      "org.gnome.Characters"
+      "org.gnome.SoundRecorder"
       )
 
 mkdir -p ~/.local/share/applications/
