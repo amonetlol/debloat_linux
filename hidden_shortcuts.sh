@@ -28,6 +28,10 @@ apps=("btop"
       "yad-icon-browser"
       "micro"
       "yelp"
+      "tour"
+      "evolution"
+      "characters"
+      "soundrecorder"
       )
 
 mkdir -p ~/.local/share/applications/
